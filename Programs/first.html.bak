@@ -1,0 +1,10 @@
+<html>
+<head>HELLO
+<title>APPLET PROGRAMME</title>
+</head>
+<body bgcolor="#45ffff">
+<font size="11" color="#00000ff">This is My Applet PRogramme<br>I Like Java</font>
+<applet code="AppletEx" width="400" height="300"></applet>
+<img src="parrot.jpg"></img>
+</body>
+</html>
