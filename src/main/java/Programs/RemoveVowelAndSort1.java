@@ -5,7 +5,7 @@ Assume that only a proper string will given as input.
 Sample Input: Shriram Sample Output: hmrrS
 */
 import java.util.*;
-class removeVowelAndSort
+class RemoveVowelAndSort1
 {
 	public static void main(String[] args) 
 	{

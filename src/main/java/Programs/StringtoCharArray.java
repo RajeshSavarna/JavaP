@@ -3,14 +3,14 @@ class StringtoCharArray
 {
 	public static void main(String[] args) 
 	{
-		A a=new A();
+		Another a=new Another();
 		a.show("Raku","jesh");
 		a.show("rajeshsavarna");
 		System.out.println();
 	}
 }
 
-class A
+class Another
 {
 	void show(String a)
 	{

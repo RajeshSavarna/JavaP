@@ -3,14 +3,14 @@ class StringCount
 {
 	public static void main(String[] args) 
 	{
-		A a=new A();
+		Aaa a=new Aaa();
 		int i=a.count(args[0]);
 		System.out.println("After Count = "+i);
 	}
 }
 
 
-class A
+class Aaa
 {
 	int count(String s)
 	{

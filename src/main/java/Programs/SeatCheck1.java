@@ -1,5 +1,5 @@
 package programs;
-class SeatCheck
+class SeatCheck1
 {
 	public static void main(String[] args) 
 	{

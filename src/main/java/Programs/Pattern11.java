@@ -1,5 +1,5 @@
 package programs;
-class Pattern 
+class Pattern11 
 {
 	public static void main(String arg[]) 
 	{

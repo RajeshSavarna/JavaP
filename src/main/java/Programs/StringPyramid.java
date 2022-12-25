@@ -3,14 +3,14 @@ class StringPyramid
 {
 	public static void main(String[] args) 
 	{
-		A a=new A();
+		Aa a=new Aa();
 		int i=a.pyramid(args[0]);
 		System.out.println("\nAfter Counting The Total Number Of Characters In String We Get "+i+" Characters");
 	}
 }
 
 
-class A
+class Aa
 {
 	int pyramid(String s)
 	{

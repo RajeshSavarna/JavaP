@@ -8,8 +8,8 @@ class  StaticBody
 		StaticBody se=new StaticBody();
 		se.display();
 
-		A a=new A();
-		A.method();
+		A11 a=new A11();
+		A11.method();
 	}
 	static void show()
 	{
@@ -25,7 +25,7 @@ class  StaticBody
 	}
 }
 
-class A
+class A11
 {
 	static void method()
 	{
