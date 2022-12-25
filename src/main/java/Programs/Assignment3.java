@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Double Dutch------------------------------------------------
 Write an application that encodes English language phrases into Double Dutch using the following algorithm:

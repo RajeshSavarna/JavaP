@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Replace by position------------------------------------------------
 Write a java program which takes a character and a sentence as input. 

@@ -1,3 +1,4 @@
+package programs;
 class StringtoCharArray 
 {
 	public static void main(String[] args) 

@@ -1,3 +1,4 @@
+package programs;
 /*
 Write a programme to get a presence of a character in a string with the count.
 Input Specification :

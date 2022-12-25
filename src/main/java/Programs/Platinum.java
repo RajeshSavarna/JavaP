@@ -1,3 +1,4 @@
+package programs;
 //coding challenge TCS open ignite  
 import java.util.Scanner;
 class Platinum

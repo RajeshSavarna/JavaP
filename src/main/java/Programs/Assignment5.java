@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Remove "x"------------------------------------------------
 Write a program that takes a string and checks whether the first or the second character or both is the letter 'x' or not. 

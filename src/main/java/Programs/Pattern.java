@@ -1,3 +1,4 @@
+package programs;
 class Pattern 
 {
 	public static void main(String arg[]) 

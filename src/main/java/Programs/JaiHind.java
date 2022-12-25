@@ -1,3 +1,4 @@
+package programs;
 /*
 Priyanka an elite CBI agent have been working on a cyber crime case has intercepted an electronic safe which can be opened by an set of 4 digit pin. Now these 4 digit pins are actually the word count of a corresponding sentences.
 Priyanka has received a bunch of sentences from one of her mole and need your help in generating the pin

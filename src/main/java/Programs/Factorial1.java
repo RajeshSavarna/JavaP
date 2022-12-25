@@ -1,3 +1,4 @@
+package programs;
 class Factorial1
 {
 	public static void main(String[] args) 

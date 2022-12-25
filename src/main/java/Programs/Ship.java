@@ -1,4 +1,5 @@
-﻿class Ship
+﻿package programs;
+class Ship
  {
   static void print(String x)
    {

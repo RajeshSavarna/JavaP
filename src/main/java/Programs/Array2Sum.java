@@ -1,3 +1,4 @@
+package programs;
 // Commandline Program
 class Array2Sum 
 {

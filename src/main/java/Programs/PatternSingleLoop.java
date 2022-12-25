@@ -1,3 +1,4 @@
+package programs;
 class PatternSingleLoop {
 	static int num = 1;
 	public static void main(String...args) {

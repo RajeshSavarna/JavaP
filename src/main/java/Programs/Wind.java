@@ -1,3 +1,4 @@
+package programs;
 import java.awt.*;
 class  Wind extends Window
 {

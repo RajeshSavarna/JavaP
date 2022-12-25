@@ -1,3 +1,4 @@
+package programs;
 class SortForEach 
 {
 	public static void main(String[] args) 

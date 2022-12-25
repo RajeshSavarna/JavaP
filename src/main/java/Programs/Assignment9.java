@@ -1,3 +1,7 @@
+package programs;
+
+import java.util.Scanner;
+
 /*
 ------------------------------------------Reverse Prime (Part 1)------------------------------------------------
 Write a java program which will take an integer N as input and print the same. 

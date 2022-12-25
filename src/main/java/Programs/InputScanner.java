@@ -1,3 +1,5 @@
+package programs;
+import java.io.IOException;
 import java.util.*;
 class  InputScanner
 {
@@ -7,7 +9,7 @@ class  InputScanner
 	}
 	static void input()
 	{
-		try{
+//		try{
 
 		Scanner br = new Scanner(System.in);
 		System.out.println("Enter a String");
@@ -16,11 +18,11 @@ class  InputScanner
 		int a = br.nextInt();
 
 		System.out.println("You Entered = "+s+"& "+a);
-		}
-		catch(IOException e)
-		{
-			e.printStackTrace();
-		}
+//		}
+//		catch(IOException e)
+//		{
+//			e.printStackTrace();
+//		}
 	}
 
 }

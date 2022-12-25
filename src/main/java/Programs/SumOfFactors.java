@@ -1,3 +1,4 @@
+package programs;
 /*
 Find the sum of the factors of a number including 1 and the given number.
 

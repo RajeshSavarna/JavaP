@@ -1,3 +1,4 @@
+package programs;
 /*
 Given a sentence, write a program to arrange and print the words in the sentence such that 
 the last letter of the previous word is same as the first letter of the next word. Print the arranged sentence. 

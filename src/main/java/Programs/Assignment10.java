@@ -1,3 +1,4 @@
+package programs;
 /*
 ---------------------------------------------Automorphic Number---------------------------------------------------
 Write a Program in Java to input a number and check whether it is an Automorphic Number or not. 

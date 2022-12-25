@@ -1,3 +1,4 @@
+package programs;
 import java.util.Scanner;
 class AlphaCheck
 {
@@ -5,7 +6,7 @@ class AlphaCheck
 	{
 		Scanner sc=new Scanner(System.in);
 		String s=sc.nextLine();
-		if ()
+		if (true)
 		{
 			
 			System.out.println("ok!");

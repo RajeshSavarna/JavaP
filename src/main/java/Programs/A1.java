@@ -1,4 +1,5 @@
-class a 
+package programs;
+class A1 
 {
 	public static void main(String[] args) 
 	{

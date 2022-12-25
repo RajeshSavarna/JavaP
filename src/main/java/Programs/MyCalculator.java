@@ -1,3 +1,4 @@
+package programs;
 /*********************************************
 Save this file as MyCalculator.java
 to compile it use

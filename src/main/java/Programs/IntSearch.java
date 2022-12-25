@@ -1,3 +1,4 @@
+package programs;
 class IntSearch 
 {
 	public static void main(String[] args) 

@@ -1,3 +1,4 @@
+package programs;
 class StringCount 
 {
 	public static void main(String[] args) 

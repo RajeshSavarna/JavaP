@@ -1,3 +1,4 @@
+package programs;
 class  Seminar
 {
 	public static void main(String[] args) 

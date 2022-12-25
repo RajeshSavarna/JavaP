@@ -1,3 +1,4 @@
+package programs;
 class Check
 {
 	public static void main(String[] args)

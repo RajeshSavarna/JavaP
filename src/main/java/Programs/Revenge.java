@@ -1,3 +1,4 @@
+package programs;
 /*
 Thabreez has been bullied enough all his life and now he seeks revenge. His first victim being Karthick, obviously! He found one question to take revenge from Karthick, but without knowing the answers of the question he would not be able to know whether Karthick's answers are correct or not.
 

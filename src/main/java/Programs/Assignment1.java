@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------------Sorting--------------------------------------------------------
 Write a program to take the input from the user and print the same numbers in sorted order from smallest to largest.

@@ -1,3 +1,4 @@
+package programs;
 /*
 You are converting an old code for a new version of the compiler. 
 In the old code we have used "->" for pointers. But now we have to replace each "->" with a ".".

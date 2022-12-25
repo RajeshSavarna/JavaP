@@ -1,3 +1,4 @@
+package programs;
 class  ThreadTest2 implements Runnable
 {
 	Thread t,t1;

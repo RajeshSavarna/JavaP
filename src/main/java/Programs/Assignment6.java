@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Rorrim it------------------------------------------------
 1) First line is an integer specifying the number of trials t (1 <= t <= 10)

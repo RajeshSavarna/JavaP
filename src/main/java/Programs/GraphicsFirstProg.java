@@ -1,3 +1,4 @@
+package programs;
 import java.awt.*;
 class GraphicsFirstProg extends Frame 
 {

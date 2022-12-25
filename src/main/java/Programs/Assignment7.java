@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Crazy Number------------------------------------------------
 An Crazy number is an n-digit positive number such that the sum of its digits raised to the power n is the number itself. 

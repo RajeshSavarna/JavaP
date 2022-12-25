@@ -1,3 +1,4 @@
+package programs;
 // Java Program to Capture full
 // Image of Screen
 import java.awt.AWTException;

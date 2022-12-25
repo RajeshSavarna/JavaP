@@ -1,3 +1,4 @@
+package programs;
 /*
 
 It"s election day. Write a program that counts votes cast and prints the person who won. Input: 1st line will contain the number of candidates. The next lines will contain 1 vote per line. The vote will be the serial number of the candidate. So for ten candidates, possible inputs are 1-10. Keep taking input till you get 0. Inputs are such that the highest vote-getter has unique number of votes. Output: 1st line will contain the serial number of the candidate who won. 2nd line will contain the number of votes that he/she got.

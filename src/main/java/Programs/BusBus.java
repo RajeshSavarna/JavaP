@@ -1,3 +1,4 @@
+package programs;
 /*
 The game of bus-bus is played by a set of people, who form a circle.
 One of the persons in the circle has to say 'one', the next person should say 'two' and so on.

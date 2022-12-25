@@ -1,3 +1,4 @@
+package programs;
 class  StaticBody
 {
 	public static void main(String[] args) 

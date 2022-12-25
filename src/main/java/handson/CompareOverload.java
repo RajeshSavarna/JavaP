@@ -1,3 +1,5 @@
+package handson;
+
 /*
 1. How Will You Compare?
 Write a Comparator class with the following 3 overloaded compare methods:

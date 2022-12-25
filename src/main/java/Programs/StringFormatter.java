@@ -1,3 +1,4 @@
+package programs;
 /*
 Write a program that reads in a String. 
 If a word in the String contains a numeral n (0 < n < 10) then your program must replace 

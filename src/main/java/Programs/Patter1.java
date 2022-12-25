@@ -1,3 +1,4 @@
+package programs;
 class Patter1 {
 	public static void main(String[] args) {
 		int count = 1;

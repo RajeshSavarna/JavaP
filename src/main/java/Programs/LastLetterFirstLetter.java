@@ -1,3 +1,4 @@
+package programs;
 final class LastLetterFirstLetter {
     static int maxPathLength = 0;
     static int maxPathLengthCount = 0;

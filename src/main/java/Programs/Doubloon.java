@@ -1,3 +1,4 @@
+package programs;
 /*
 A word is said to be a doubloon if every letter that appears in the word appears exactly twice.
 

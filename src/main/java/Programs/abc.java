@@ -1,4 +1,5 @@
-simport java.awt.*;
+package programs;
+import java.awt.*;
 class abc extends Frame 
 {
 	abc()

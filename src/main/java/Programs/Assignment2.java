@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------String palindrome------------------------------------------------
 Write a java program to find out whether the given string is a palindrome or not.

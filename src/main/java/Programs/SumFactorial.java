@@ -1,3 +1,4 @@
+package programs;
 // Question. 2!+4!+6!+8!+......+n terms
 
 import java.util.Scanner;

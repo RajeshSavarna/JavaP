@@ -1,3 +1,4 @@
+package programs;
 /*
 ------------------------------------------Search------------------------------------------------
 Write a java program to get n integers from the user and a number to be searched.

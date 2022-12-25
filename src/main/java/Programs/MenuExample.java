@@ -1,3 +1,4 @@
+package programs;
 import java.awt.*;
 import java.awt.event.*;
 public class MenuExample extends Frame implements ActionListener

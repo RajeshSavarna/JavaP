@@ -1,3 +1,4 @@
+package programs;
 //Question.  1+2+4+6+8+10+......+ n terms 
 import java.util.Scanner;
 class SumTerms

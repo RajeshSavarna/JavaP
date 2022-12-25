@@ -1,3 +1,4 @@
+package programs;
 class StringPyramid 
 {
 	public static void main(String[] args) 
